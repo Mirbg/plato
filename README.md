@@ -1,0 +1,4 @@
+plato
+=====
+
+plato ring
